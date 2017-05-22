@@ -4,12 +4,19 @@
     margin: 0;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     background-image: url(images/congress1.jpeg);
 }
 
 .centered {
+    text-align: center;
     top: 0;
     left: 0;
     bottom: 0;
     right: 0;
+}
+
+h1 {
+    text-decoration: bold;
+    font-family: cursive;
 }
