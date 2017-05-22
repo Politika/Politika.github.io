@@ -1,0 +1,15 @@
+.mainImage {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(images/congress1.jpeg);
+}
+
+.centered {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
