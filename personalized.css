@@ -1,4 +1,6 @@
 .mainImage {
+    height: 100%;
+    width: 100%;
     padding-top: 30px;
     padding-bottom: 30px;
     margin: 0;
@@ -19,4 +21,5 @@
 h1 {
     text-decoration: bold;
     font-family: cursive;
+    color: white;
 }
