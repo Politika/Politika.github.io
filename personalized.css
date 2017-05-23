@@ -11,13 +11,6 @@
     position: absolute;
     top: 30%;
     width: 100%;
-}
-
-h1 {
-    text-decoration: bold;
-    font-family: cursive;
-    color: white;
-    font-size: 13em;
     text-shadow:
    -0.25em -0.25px 0.25px #000000,  
     0.25em -0.25px 0.25px #000000,
@@ -25,16 +18,23 @@ h1 {
      0.25em 0.25px 0.25px #000000;
 }
 
+h1 {
+    text-decoration: bold;
+    font-family: cursive;
+    color: white;
+    font-size: 13em;
+}
+
 p {
     text-decoration: none;
     font-family: serif;
     color: white;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 ul li a {
     font-family: serif;
     text-decoration: bold;
     color: white;
-    font-size: 5em;
+    font-size: 3em;
 }
