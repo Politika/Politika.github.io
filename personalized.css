@@ -19,10 +19,10 @@ h1 {
     color: white;
     font-size: 13em;
     text-shadow:
-   -0.25em -0.25px 0.25px #000000,  
-    0.25em -0.25px 0.25px #000000,
-    -0.25em 0.25px 0.25px #000000,
-     0.25em 0.25px 0.25px #000000;
+   -0.05em -0.05px 0.05px #000000,  
+    0.05em -0.05px 0.05px #000000,
+    -0.05em 0.05px 0.05px #000000,
+     0.05em 0.05px 0.05px #000000;
 }
 
 p {
@@ -32,7 +32,7 @@ p {
 }
 
 ul li a {
-    border-radius: 30px;
+    border-radius: 20%;
     font-family: serif;
     text-decoration: none;
     color: white;
@@ -41,7 +41,7 @@ ul li a {
 }
 
 ul li a:hover {
-    border-radius: 30px;
+    border-radius: 20%;
     font-family: serif;
     text-decoration: none;
     font-weight: bold;
