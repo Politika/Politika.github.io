@@ -12,10 +12,10 @@
     top: 40%;
     width: 100%;
     text-shadow:
-   -0.75px -0.75px 0.25px #ffffff,  
-    0.75px -0.75px 0.25px #ffffff,
-    -0.75px 0.75px 0.25px #ffffff,
-     0.75px 0.75px 0.25px #ffffff;
+   -0.75em -0.75em 0.25em #ffffff,  
+    0.75em -0.75em 0.25em #ffffff,
+    -0.75em 0.75em 0.25em #ffffff,
+     0.75em 0.75em 0.25em #ffffff;
 }
 
 h1 {
