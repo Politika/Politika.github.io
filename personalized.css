@@ -11,11 +11,16 @@
     position: absolute;
     top: 40%;
     width: 100%;
+    text-shadow:
+   -0.75px -0.75px 0.25px #ffffff,  
+    0.75px -0.75px 0.25px #ffffff,
+    -0.75px 0.75px 0.25px #ffffff,
+     0.75px 0.75px 0.25px #ffffff;
 }
 
 h1 {
     text-decoration: bold;
     font-family: cursive;
     color: white;
-    font-size: 10em;
+    font-size: 13em;
 }
