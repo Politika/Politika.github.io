@@ -3,6 +3,11 @@
     background-size: cover;
 }
 
+.signUpImage {
+    background: url(images/building.jpeg) no-repeat center fixed;
+    background-size: cover;
+}
+
 .centered {
     text-align: center;
     left: 0;
@@ -11,6 +16,10 @@
     position: absolute;
     top: 30%;
     width: 100%;
+}
+
+.centered {
+    text-align: center;
 }
 
 h1 {
