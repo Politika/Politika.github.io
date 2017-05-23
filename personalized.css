@@ -61,3 +61,12 @@ ul li a:hover {
     font-size: 3em;
     background-color: white;
 }
+
+ul li a:active {
+    font-family: serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 3em;
+    background-color: white;
+}
