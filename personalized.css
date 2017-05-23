@@ -13,6 +13,11 @@
     background-size: cover;
 }
 
+.exampleImage {
+    background: url(images/law.jpeg) no-repeat center fixed;
+    background-size: cover;
+}
+
 .centered {
     text-align: center;
     left: 0;
@@ -34,6 +39,26 @@ h1 {
     0.05em -0.05px 0.05px #000000,
     -0.05em 0.05px 0.05px #000000,
      0.05em 0.05px 0.05px #000000;
+}
+
+h2 {
+    
+    
+}
+
+h3 {
+    
+    
+}
+
+h4 {
+    
+    
+}
+
+h5 {
+    
+    
 }
 
 p {
