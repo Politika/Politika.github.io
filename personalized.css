@@ -130,13 +130,13 @@ ul li.noLink a {
 ul li.noLink a:hover {
     font-family: serif;
     text-decoration: none;
-    font-weight: 0;
+    font-weight: normal;
     color: dodgerblue;
     font-size: 3em;
     background-color: white;
 }
 
-ul li.noLink a:active {
+ul li.noLink.done a {
     font-family: serif;
     text-decoration: none;
     color: dodgerblue;
