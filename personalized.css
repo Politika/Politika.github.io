@@ -4,7 +4,12 @@
 }
 
 .signUpImage {
-    background: url(images/building.jpeg) no-repeat center fixed;
+    background: url(images/building1.jpeg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.loginImage {
+    background: url(images/building2.jpeg) no-repeat center fixed;
     background-size: cover;
 }
 
