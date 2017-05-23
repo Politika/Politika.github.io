@@ -1,13 +1,12 @@
 .mainImage {
-    height: 100%;
+    height: auto;
     width: 100%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding: 0;
     margin: 0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background: url(images/congress1.jpeg);
+    background-image: url(images/congress1.jpeg);
 }
 
 .centered {
