@@ -29,6 +29,11 @@ p {
     font-family: serif;
     color: white;
     font-size: 3em;
+    text-shadow:
+   -0.05em -0.05px 0.05px #000000,  
+    0.05em -0.05px 0.05px #000000,
+    -0.05em 0.05px 0.05px #000000,
+     0.05em 0.05px 0.05px #000000;
 }
 
 ul li a {
