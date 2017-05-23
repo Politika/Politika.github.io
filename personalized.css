@@ -19,14 +19,13 @@
 }
 
 h1 {
-    text-decoration: bold;
+    font-weight: bold;
     font-family: cursive;
     color: white;
     font-size: 13em;
 }
 
 p {
-    text-decoration: none;
     font-family: serif;
     color: white;
     font-size: 2em;
@@ -34,7 +33,17 @@ p {
 
 ul li a {
     font-family: serif;
-    text-decoration: bold;
+    text-decoration: none;
     color: white;
     font-size: 3em;
+    background-color: dimgray;
+}
+
+ul li a:active {
+    font-family: serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 3em;
+    background-color: white;
 }
