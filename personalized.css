@@ -1,5 +1,5 @@
 .mainImage {
-    background-image: url(images/congress1.jpeg) no-repeat center fixed;
+    background: url(images/congress1.jpeg) no-repeat center fixed;
     background-size: cover;
 }
 
