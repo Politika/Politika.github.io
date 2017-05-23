@@ -45,6 +45,17 @@ p {
      0.05em 0.05px 0.05px #000000;
 }
 
+right {
+    padding-top: 3em;
+    text-align: right;
+    font-size: 1em;
+}
+
+left {
+    padding-top: 3em;
+    text-align: left;
+}
+
 ul li a {
     font-family: serif;
     text-decoration: none;
