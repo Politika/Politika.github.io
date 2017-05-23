@@ -14,8 +14,9 @@
 }
 
 .exampleImage {
-    background: url(images/law.jpeg) no-repeat center fixed;
+    background: no-repeat center fixed;
     background-size: cover;
+    background-color: dodgerblue;
 }
 
 .centered {
@@ -50,6 +51,7 @@ h2 {
 }
 
 h3 {
+    color: white;
     text-align: center;
     font-family: cursive;
     font-size: 1.25em;
@@ -116,6 +118,32 @@ ul li a:active {
     font-size: 3em;
     background-color: white;
 }
+
+ul li.noLink a {
+    font-family: serif;
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 3em;
+    background-color: white;
+}
+
+ul li.noLink a:hover {
+    font-family: serif;
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 3em;
+    background-color: white;
+}
+
+ul li.noLink a:active {
+    font-family: serif;
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 3em;
+    background-color: white;
+}
+
+
 
 img {
     margin-left: auto;
